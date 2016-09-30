@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\bin\Debug\RefloorCost.exe.config
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\bin\Debug\RefloorCost.exe
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\bin\Debug\RefloorCost.pdb
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.Form1.resources
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.exe
+F:\CSharp\1Intro\BasicApp\RefloorCost\RefloorCost\obj\Debug\RefloorCost.pdb
