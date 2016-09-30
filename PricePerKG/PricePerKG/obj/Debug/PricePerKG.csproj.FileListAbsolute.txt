@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\bin\Debug\PricePerKG.exe.config
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\bin\Debug\PricePerKG.exe
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\bin\Debug\PricePerKG.pdb
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.Form1.resources
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.exe
+F:\CSharp\1Intro\BasicApp\PricePerKG\PricePerKG\obj\Debug\PricePerKG.pdb
