@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\bin\Debug\VolumnCalculator.exe.config
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\bin\Debug\VolumnCalculator.exe
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\bin\Debug\VolumnCalculator.pdb
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.Form1.resources
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.exe
+F:\CSharp\1Intro\BasicApp\VolumnCalculator\VolumnCalculator\obj\Debug\VolumnCalculator.pdb
