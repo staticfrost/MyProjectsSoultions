@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\bin\Debug\HowMuchMarkUp.exe.config
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\bin\Debug\HowMuchMarkUp.exe
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\bin\Debug\HowMuchMarkUp.pdb
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.Form1.resources
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.exe
+F:\CSharp\1Intro\BasicApp\HowMuchMarkUp\HowMuchMarkUp\obj\Debug\HowMuchMarkUp.pdb
