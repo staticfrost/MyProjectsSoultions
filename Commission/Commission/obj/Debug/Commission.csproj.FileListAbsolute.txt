@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\Commission\Commission\bin\Debug\Commission.exe.config
+F:\CSharp\1Intro\BasicApp\Commission\Commission\bin\Debug\Commission.exe
+F:\CSharp\1Intro\BasicApp\Commission\Commission\bin\Debug\Commission.pdb
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.Form1.resources
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.exe
+F:\CSharp\1Intro\BasicApp\Commission\Commission\obj\Debug\Commission.pdb
