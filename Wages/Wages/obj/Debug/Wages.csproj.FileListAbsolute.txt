@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\Wages\Wages\bin\Debug\Wages.exe.config
+F:\CSharp\1Intro\BasicApp\Wages\Wages\bin\Debug\Wages.exe
+F:\CSharp\1Intro\BasicApp\Wages\Wages\bin\Debug\Wages.pdb
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.Form1.resources
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.exe
+F:\CSharp\1Intro\BasicApp\Wages\Wages\obj\Debug\Wages.pdb
