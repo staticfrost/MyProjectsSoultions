@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\tickets\tickets\bin\Debug\tickets.exe.config
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.Form1.resources
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\tickets\tickets\bin\Debug\tickets.exe
+F:\CSharp\1Intro\BasicApp\tickets\tickets\bin\Debug\tickets.pdb
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.exe
+F:\CSharp\1Intro\BasicApp\tickets\tickets\obj\Debug\tickets.pdb
