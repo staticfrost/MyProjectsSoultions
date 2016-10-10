@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\bin\Debug\avggrade.exe.config
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\bin\Debug\avggrade.exe
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\bin\Debug\avggrade.pdb
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.Form1.resources
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.exe
+F:\CSharp\1Intro\BasicApp\avggrade\avggrade\obj\Debug\avggrade.pdb
