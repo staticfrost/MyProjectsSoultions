@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\Grading\Grading\bin\Debug\Grading.exe.config
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.Form1.resources
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\Grading\Grading\bin\Debug\Grading.exe
+F:\CSharp\1Intro\BasicApp\Grading\Grading\bin\Debug\Grading.pdb
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.exe
+F:\CSharp\1Intro\BasicApp\Grading\Grading\obj\Debug\Grading.pdb
