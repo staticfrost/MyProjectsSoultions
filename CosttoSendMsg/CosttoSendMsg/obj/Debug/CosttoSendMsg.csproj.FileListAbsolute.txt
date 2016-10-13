@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\bin\Debug\CosttoSendMsg.exe.config
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\bin\Debug\CosttoSendMsg.exe
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\bin\Debug\CosttoSendMsg.pdb
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.Form1.resources
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.exe
+F:\CSharp\1Intro\BasicApp\CosttoSendMsg\CosttoSendMsg\obj\Debug\CosttoSendMsg.pdb
