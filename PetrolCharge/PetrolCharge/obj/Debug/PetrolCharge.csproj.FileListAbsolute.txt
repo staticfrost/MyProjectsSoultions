@@ -1,0 +1,9 @@
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\bin\Debug\PetrolCharge.exe.config
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\bin\Debug\PetrolCharge.exe
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\bin\Debug\PetrolCharge.pdb
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.csprojResolveAssemblyReference.cache
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.Form1.resources
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.Properties.Resources.resources
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.csproj.GenerateResource.Cache
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.exe
+F:\CSharp\1Intro\BasicApp\PetrolCharge\PetrolCharge\obj\Debug\PetrolCharge.pdb
